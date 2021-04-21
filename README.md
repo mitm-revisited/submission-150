@@ -7,6 +7,7 @@ A revised version of the paper is provided at (https://github.com/mitm-revisited
 - We revise the attack on Saturnin, where the time complexity is improved significantly.
 
 [1] Thomas Fuhr, Brice Minaud: Match Box Meet-in-the-Middle Attack Against KATAN. FSE 2014.
+
 [2] Yu Sasaki: Integer Linear Programming for Three-Subset Meet-in-the-Middle Attacks: Application to GIFT. IWSEC 2018
 
 
