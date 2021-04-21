@@ -2,7 +2,7 @@
 
 ## A Quick Revision
 A revised version of the paper is provided at (https://github.com/mitm-revisited/submission-150/blob/main/paper-revised.pdf). In this revision:
-- We identify the first preimage attack on 10-round hashing mode with AES-256 by employing the new representation of the AES key schedule due to Leurent and Pernot (EUROCRYPT 2021)
+- We identify the first preimage attack on 10-round hashing mode with AES-256 by employing the new representation of the AES key schedule due to Leurent and Pernot (EUROCRYPT 2021).
 - We discuss the difficulties in building bit-oriented models, and refer the reader to [1,2] as a starting point for bit-level MITM attacks.
 - We revise the attack on Saturnin, where the time complexity is improved significantly.
 
